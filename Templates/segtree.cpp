@@ -54,7 +54,6 @@ int main() {
 
   // find sum between 2..4 -- should be 11.
   cout << query(2, 4) << endl;
-  cout << "done" << endl;
 
   return 0;
 }
