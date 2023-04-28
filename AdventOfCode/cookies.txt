@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.adventofcode.com	TRUE	/	TRUE	1704392449	session	53616c7465645f5f6a4ef11a5ac476f4132257f8a090e8699546ccfdc09304785ffbd70aef4e7173607d33c5bae19174aff9d0fa38a70ef2543275f52f97194d

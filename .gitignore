@@ -1,3 +1,7 @@
 CMakeLists.txt
 .clang-format
-clang-make-debug
+cmake-build-debug
+**venv**
+.autocp
+*/.idea
+**.cph
